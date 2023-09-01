@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/faheemsth/public_html/247tutors.smarttechnologyhouse.net/
+    - export DEPLOYPATH=/home/faheemsth/public_html/admin/247tutors.smarttechnologyhouse.net/
     - /bin/cp * $DEPLOYPATH
